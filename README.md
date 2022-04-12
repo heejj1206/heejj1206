@@ -1,11 +1,13 @@
 <div align='center'>
 
-## 👋 Hi! I'm Heejae 👋
-It's my profile 😉👇
-<br/>
+### 👋 Hi! I'm Heejae 👋
+<p>
+  It's my profile 😉👇
+</p>
 <br/>
 
 ### 📚 Stack 📚
+<br/>
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -23,6 +25,7 @@ It's my profile 😉👇
 <br/>
   
 ### 🤍 Stats 🤍
+<br/>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejj1206&theme=buefy&show_icons=true)](https://github.com/heejj1206/github-readme-stats)
   

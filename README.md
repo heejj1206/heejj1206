@@ -24,7 +24,7 @@
   
 <br/>
   
-### 🤍 Stats 🤍
+### ✨  Stats ✨
 <br/>
   
 [![Hee's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejj1206&theme=buefy&show_icons=true)](https://github.com/heejj1206/github-readme-stats)

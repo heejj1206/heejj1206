@@ -27,8 +27,8 @@
 ### 🤍 Stats 🤍
 <br/>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejj1206&theme=buefy&show_icons=true)](https://github.com/heejj1206/github-readme-stats)
+[![Hee's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejj1206&theme=buefy&show_icons=true)](https://github.com/heejj1206/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejj1206&theme=buefy&show_icons=true)](https://github.com/heejj1206/github-readme-stats)
+[![Hee's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejj1206&layout=compact&theme=buefy&show_icons=true)](https://github.com/heejj1206/github-readme-stats)
   
 </div>

@@ -1,9 +1,7 @@
 <div align='center'>
 
 ### 👋 Hi! I'm Heejae 👋
-<p>
-  It's my profile 😉👇
-</p>
+
 <br/>
 
 ### 📚 Stack 📚
